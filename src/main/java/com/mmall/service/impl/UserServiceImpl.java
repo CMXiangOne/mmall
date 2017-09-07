@@ -17,6 +17,7 @@ import java.util.UUID;
  * Created by johncheng on 2017/8/25.
  */
 @Service("iUserService")
+//注释给controller用
 public class UserServiceImpl implements IUserService {
 
     @Autowired
